@@ -21,3 +21,6 @@
 
 // Account for typos
 SSDandSNAP/TANF
+
+// Exclude "Food Insecurity: No Food Insecurity"
+(?!Food\sInsecurity:\sNo\sFood\sInsecurity\b)
