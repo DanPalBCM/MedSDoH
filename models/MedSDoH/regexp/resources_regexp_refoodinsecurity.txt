@@ -1,3 +1,6 @@
+// Adding Negative Lookahead
+(?!\bFood Insecurity: No Food Insecurity\b)
+
 // 1. General phrases indicating food insecurity or assistance needs
 \b(need(s|ed)?|request(ed)?|interview(ed)?|used?|utiliz(ing|ed?)|help(ed)?|discuss(ed)?|assisted|assistance|ha(ve|s|d)|call(ed)?|referral|through)(\s+\S+){0,10}\s(food|(grocery)?\s?shopping|SNAP|WIC|EBT|food stamps?)\b
 
@@ -21,6 +24,3 @@
 
 // Account for typos
 SSDandSNAP/TANF
-
-// Exclude "Food Insecurity: No Food Insecurity"
-(?!Food\sInsecurity:\sNo\sFood\sInsecurity\b)
