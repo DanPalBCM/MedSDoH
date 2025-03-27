@@ -87,3 +87,26 @@ worried about running out of food in the last year:
 yes, sports: 
 Substance Use History n/a
 Substance Use History denied
+Food Insecurity: No Food Insecurity
+Worried About Running Out of Food in the Last Year
+Has the patient ever been in treatment due to substance use/abuse?: No
+Has the patient been diagnosed with or experienced symptoms of substance use/abuse?: No
+Has the patient ever been in treatment for emotional, behavioral, or substance abuse issues? No
+Substance and Sexual Activity
+Drug Use Not on file
+Interpreter used for encounter? No
+Interpreter used for patient? No
+Interpreter used for historian? No
+interpreter used for patient? No
+interpreter used for historian? No
+intimate partner violence:
+interpreter used for encounter:
+name of interpreter:
+financial concerns:
+has patient been diagnosed with or experienced symptoms of substance use/abuse?
+has the patient ever been in treatment due to substance use/abuse?
+symptoms are due to substance use or substance withdrawal?
+interpreter used for encounter?
+interpreter used for patient?
+interpreter used for historian?
+has the patient ever been in treatment for emotional, behavioral, or substance abuse issues?
